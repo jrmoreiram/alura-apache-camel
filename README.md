@@ -7,7 +7,7 @@
 - Conecte endpoints REST, SOAP e JMS
 - Transforme e filtra mensagens com XPATH e XSLT
 
-### Aulas
+### Aulas:
 - A primeira rota com Camel
 - Separando e filtrando mensagens
 - Conectando endpoints HTTP
